@@ -1,0 +1,58 @@
+.container {
+    width: 700px;
+}
+
+li p {
+    line-height: 35px;
+    margin: 0;
+}
+
+#ok {
+    display: none;
+}
+
+.navbar {
+    padding: .6875em 1rem;
+}
+
+.navbar-brand {
+    padding: 0px;
+    line-height: 30px;
+    font-size: 26px;
+    font-weight: 500;
+}
+
+.container,.form-inline {
+    max-width: 100%;
+}
+
+.form-inline .form-control {
+    width: 370px;
+    max-width: 100%;
+    height: 32px;
+}
+
+.to-do-list,.off-the-stocks {
+    width: 700px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.status-tag {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    width: 42px;
+    height: 35px;
+    padding: 5px;
+    font-size: 13px;
+    margin-left: 7px;
+}
+
+.to-do-list li:hover {
+    background: #f8f9fa;
+}
