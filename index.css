@@ -61,3 +61,7 @@ li p {
 #clear-all {
     margin-top: 10px;
 }
+
+.off-the-stocks p {
+    text-decoration: line-through;
+}
